@@ -197,11 +197,11 @@ h2{
   text-align: center; /* Alinha o texto e as imagens no centro da faixa */
 }
 #img{
-    width: 30%;
+    width: 40%;
     height: 35%;
 }
 #imgw{
-    width: 40%;
+    width: 50%;
     height: 45%;
     margin-top: 50px;
     
