@@ -180,7 +180,7 @@ h2{
 }
 #faixa-cinza {
   width: 75%; /* Largura total da tela */
-  height: 1000px; /* Altura da faixa */
+  height:auto; /* Altura da faixa */
   background-color: #DCDCDC;
   opacity: 0,4; /* Cor cinza clara */
   margin: 0 auto; /* Centraliza a faixa na tela */
@@ -196,17 +196,17 @@ h2{
   text-align: center; /* Alinha o texto e as imagens no centro da faixa */
 }
 #img{
-    width:100px;
-    height: 70px;
+    width:50%;
+    height: 45%;
 }
 #imgw{
-    width: 100px;
-    height: 70px;
+    width: 40%;
+    height: 45%;
     margin-top: 50px;
     
 }
 .imagem-lista {
-  width: 80px;
-  height: 50px;
+  width: 30%;
+  height: 35%;
     margin-top: 15px;
 }
