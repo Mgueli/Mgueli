@@ -32,16 +32,15 @@ h1{
 }
 h2{
     text-align: left;
-    margin-left: 50px;
+
     color: #708090;
 }
 #hd{
     color:black;
-    margin-left: 90px;
+ 
 }
 #pi{
-    margin-left: 70px;
-    margin-right: 0px;
+
     margin-top: 10PX;
 }
 .container {
@@ -202,13 +201,12 @@ h2{
 }
 #imgw{
     width: 100px;
-    height: 70px%;
+    height: 70px;
     margin-top: 50px;
     
 }
 .imagem-lista {
   width: 80px;
   height: 50px;
-  margin-right: 58%;
     margin-top: 15px;
 }
