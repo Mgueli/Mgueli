@@ -180,7 +180,7 @@ h2{
 }
 #faixa-cinza {
   width: 75%; /* Largura total da tela */
-  height: auto; /* Altura da faixa */
+  height: 1000px; /* Altura da faixa */
   background-color: #DCDCDC;
   opacity: 0,4; /* Cor cinza clara */
   margin: 0 auto; /* Centraliza a faixa na tela */
@@ -192,7 +192,7 @@ h2{
   width: 75%; /* Largura total da tela */
   height: 50%; /* Altura da faixa */
   background-color: #DCDCDC; /* Cor cinza clara */
-  margin: 0 auto; /* Centraliza a faixa na tela */
+  margin:  auto; /* Centraliza a faixa na tela */
   text-align: center; /* Alinha o texto e as imagens no centro da faixa */
 }
 #img{
